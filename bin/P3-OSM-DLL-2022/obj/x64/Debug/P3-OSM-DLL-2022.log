@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  DLL-Bridge.cpp
+  dllmain.cpp
+  MapaRender.cpp
+C:\Users\8dded\source\repos\VSCE2022 - ALUMNES P1 - 2027\P3-OSM-DLL-2022\MapaRender.cpp(39,55): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/MapaRender.cpp")
+  
+  PuntDeInteresBase.cpp
+  Util.cpp
+  XML4OSMUtil.cpp
+  Generando código...
+     Creando biblioteca C:\Users\8dded\source\repos\VSCE2022 - ALUMNES P1 - 2027\bin\P3-OSM-DLL-2022\bin\x64\Debug\P3-OSM-DLL-2022.lib y objeto C:\Users\8dded\source\repos\VSCE2022 - ALUMNES P1 - 2027\bin\P3-OSM-DLL-2022\bin\x64\Debug\P3-OSM-DLL-2022.exp
+  P3-OSM-DLL-2022.vcxproj -> C:\Users\8dded\source\repos\VSCE2022 - ALUMNES P1 - 2027\bin\P3-OSM-DLL-2022\bin\x64\Debug\P3-OSM-DLL-2022.dll

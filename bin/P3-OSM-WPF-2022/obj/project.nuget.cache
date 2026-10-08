@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "r3ZVunA/M4k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\8dded\\source\\repos\\VSCE2022 - ALUMNES P1 - 2027\\P3-OSM-WPF-2022\\P3-OSM-WPF-2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\8dded\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\8dded\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\8dded\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\8dded\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\8dded\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\8dded\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\8dded\\.nuget\\packages\\xaml.mapcontrol.wpf\\10.4.0\\xaml.mapcontrol.wpf.10.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
